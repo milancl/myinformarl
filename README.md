@@ -2,4 +2,4 @@
 
 This repo contains the reproduced InforMARL code, which is an extension of RMAPPO
 
-run: python driver.py
+To run the training, run `$python driver.py`.
