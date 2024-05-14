@@ -1,0 +1,6 @@
+__pycache__
+wandb
+config.py
+simplifiedInforMARL/runs
+.DS_Store
+
